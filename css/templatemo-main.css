@@ -354,7 +354,7 @@ nav a:hover::before {
 .first-content p {
 	color: #fff;
 	font-size: 13px;
-	text-transform: uppercase;
+	
 	font-weight: 300;
 	letter-spacing: 2px;
 	line-height: 26px;
