@@ -298,19 +298,19 @@ nav a:hover::before {
   background-image: url(../img/first_bg (2).jpg);
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(../img/first_bg (2).jpg);
 }
 .slides .slide:nth-child(3) {
   background-image: url(../img/first_bg (2).jpg);
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(../img/first_bg (2).jpg);
  }
 .slides .slide:nth-child(5) {
   background-image: url(../img/first_bg (2).jpg);
 }
 .slides .slide:nth-child(6) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(../img/first_bg (2).jpg);
 }
 .slides .slide img {
   width: 100%;
